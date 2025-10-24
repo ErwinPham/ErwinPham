@@ -8,6 +8,35 @@
 <!-- Horizontal divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Combined About Me & Technologies Section -->
+<h2 align="center">About Me</h2>
+
+<table align="center" border="0">
+  <tr>
+    <td align="left" width="100%">
+      <p>
+        <b>I am a blockchain enthusiast with a deep passion for decentralized technologies.</b>
+      </p>
+      <p>
+        🎓 Student at <b>University of Finance And Marketing</b><br>
+        ⏳ 1+ years in <b>Smart Contract Developer (EVM)</b><br>
+        💼 Experience:<br>
+        • 🔗 Ex-Smart Contract Developer Intern @ <b>Apps Cyclone</b><br>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- Horizontal divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- GitHub Stats Section -->
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErwinPham&theme=tokyonight&show_icons=true&rank_icon=github&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErwinPham&theme=tokyonight&layout=compact" />
 <!-- Yearly Contributions Section -->
 <h2 align="center">📅 Contribution Statistic</h2>
 
