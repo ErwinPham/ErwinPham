@@ -9,19 +9,28 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Combined About Me & Technologies Section -->
-<h2 align="center">About Me</h2>
+<h2 align="center">💻 About Me</h2>
 
 <table align="center" border="0">
   <tr>
     <td align="left" width="100%">
       <p>
-        <b>I am a blockchain enthusiast with a deep passion for decentralized technologies.</b>
+        <b>I am a Blockchain Enthusiast with a deep passion for Decentralized Technologies.</b>
       </p>
       <p>
         🎓 Student at <b>University of Finance And Marketing</b><br>
         ⏳ 1+ years in <b>Smart Contract Developer (EVM)</b><br>
+        🔗 Ex-Smart Contract Developer Intern @ <b>Apps Cyclone</b><br>
+        <br>
         💼 Experience:<br>
-        • 🔗 Ex-Smart Contract Developer Intern @ <b>Apps Cyclone</b><br>
+        • 🏦 DeFi – Stablecoin</b><br>
+        • 🕋 Cross-Chain Token Bridge</b><br>
+        • 🌌 Dynamic NFT (ERC-721 Extension)</b><br>
+        • 💎 ERC-20 & ERC-721 Token</b><br>
+        • 🎄 Merkle Tree Airdrop System</b><br>
+        • ⚙️ Upgradeable Smart Contracts (UUPS Proxy)</b><br>
+        • 🛠 Chainlink Oracle Integration</b><br>
+        <br>
       </p>
     </td>
   </tr>
@@ -31,7 +40,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">📉 GitHub Statistics</h2>
 
 <div align="center">
   <!-- GitHub Stats Card -->
