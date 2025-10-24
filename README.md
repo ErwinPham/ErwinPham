@@ -1,7 +1,7 @@
 <!-- Animated greeting -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;I'm+Huy+Pham;Welcome+to+my+GitHub!&center=true&size=30&color=58a6ff">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;I'm+Huy+Pham;Welcome+to+my+GitHub!&center=true&size=30&color=58a6ff">
   </a>
 </h1>
 
