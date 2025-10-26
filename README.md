@@ -5,9 +5,6 @@
   </a>
 </h1>
 
-<!-- Horizontal divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- Combined About Me & Technologies Section -->
 <h2 align="center">💻 About Me</h2>
 
@@ -36,9 +33,6 @@
   </tr>
 </table>
 
-<!-- Horizontal divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- GitHub Stats Section -->
 <h2 align="center">📉 GitHub Statistics</h2>
 
@@ -61,9 +55,6 @@
     <img src="https://github.com/Pasonnn/Pasonnn/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Calendar" />
   </details>
 </div>
-
-<!-- Horizontal divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Connect Section -->
 <h2 align="center">📫 Connect With Me</h2>
