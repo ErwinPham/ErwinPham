@@ -34,14 +34,6 @@
 </table>
 
 <!-- GitHub Stats Section -->
-<h2 align="center">📉 GitHub Statistics</h2>
-
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErwinPham&theme=tokyonight&show_icons=true&rank_icon=github&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErwinPham&theme=tokyonight&layout=compact" />
-<!-- Yearly Contributions Section -->
-<h2 align="center">📅 Contribution Statistic</h2>
 
 <!-- Yearly contribution navigator -->
 <div align="center">
