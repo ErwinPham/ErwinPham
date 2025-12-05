@@ -27,6 +27,7 @@
         • 🎄 Merkle Tree Airdrop System</b><br>
         • ⚙️ Upgradeable Smart Contracts (UUPS Proxy)</b><br>
         • 🛠 Chainlink Oracle Integration</b><br>
+        • 💬 On-chain Chatting Dapp</b><br>
         <br>
       </p>
     </td>
