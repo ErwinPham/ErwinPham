@@ -22,6 +22,7 @@
         <br>
         💼 Experience:<br>
         • 🏦 DeFi – Stablecoin</b><br>
+        • 🦄 DeFi - AMM like Uniswap V2</b><br>
         • 🕋 Cross-Chain Token Bridge</b><br>
         • 🌌 Dynamic NFT (ERC-721 Extension)</b><br>
         • 💎 ERC-20 & ERC-721 Token</b><br>
@@ -29,7 +30,6 @@
         • ⚙️ Upgradeable Smart Contracts (UUPS Proxy)</b><br>
         • 🛠 Chainlink Oracle Integration</b><br>
         • 💬 On-chain Chatting Dapp</b><br>
-       • 🦄 AMM like Uniswap V2</b><br>
         <br>
       </p>
     </td>
