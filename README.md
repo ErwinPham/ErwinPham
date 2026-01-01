@@ -16,8 +16,9 @@
       </p>
       <p>
         🎓 Student at <b>University of Finance And Marketing</b><br>
-        ⏳ 1+ years in <b>Smart Contract Developer (EVM)</b><br>
+        ⏳ 2+ years in <b>Smart Contract Developer (EVM)</b><br>
         🔗 Ex-Smart Contract Developer Intern @ <b>Apps Cyclone</b><br>
+        🔗 Smart Contract Developer @ <b>Fi.AI>Bb><br>
         <br>
         💼 Experience:<br>
         • 🏦 DeFi – Stablecoin</b><br>
@@ -28,6 +29,7 @@
         • ⚙️ Upgradeable Smart Contracts (UUPS Proxy)</b><br>
         • 🛠 Chainlink Oracle Integration</b><br>
         • 💬 On-chain Chatting Dapp</b><br>
+       • 🦄 AMM like Uniswap V2</b><br>
         <br>
       </p>
     </td>
