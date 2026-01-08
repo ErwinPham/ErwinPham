@@ -40,7 +40,7 @@
 
 <!-- Yearly contribution navigator -->
 <div align="center">
-  
+  <!--
   <details open>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErwinPham&theme=tokyo-night&hide_border=true&area=true&custom_title=Last%2030%20Days%20Contributions" alt="Last 30 Days Contribution Graph" />
   </details>
