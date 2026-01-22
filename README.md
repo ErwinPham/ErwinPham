@@ -16,7 +16,7 @@
       </p>
       <p>
         🎓 Student at <b>University of Finance And Marketing</b><br>
-        ⏳ 2+ years in <b>Smart Contract Developer (EVM)</b><br>
+        ⏳ 2.5 years in <b>Smart Contract Developer (EVM)</b><br>
         🔗 Ex-Smart Contract Developer Intern @ <b>Apps Cyclone</b><br>
         🔗 Ex-Smart Contract Developer @ <b>Fi.AI</b><br>
         <br>
